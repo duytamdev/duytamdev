@@ -31,9 +31,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Android studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android%20studio)&nbsp;\
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Android studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android%20studio)&nbsp;
+![Webstorm](https://img.shields.io/badge/-Webstorm-05122A?style=flat&logo=webstorm)&nbsp;
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -48,4 +50,4 @@
 
 ------
 
-Last Edited on: 12/04/2022
+Last Edited on: April / 12 / 20222
