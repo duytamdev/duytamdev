@@ -23,14 +23,17 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
 ![ReactNative](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![ReactJs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
+![MongoDB](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android%20studio)&nbsp;
@@ -50,4 +53,4 @@
 
 ------
 
-Last Edited on: April / 12 / 20222
+Last Edited on: October / 06 / 20222
