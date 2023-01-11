@@ -11,7 +11,6 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-<h3 align="center">Currently a student of FPT Polytechnic, majoring in mobile platform software development</h3>
 
 <br/>
 <br/>
@@ -53,4 +52,4 @@
 
 ------
 
-Last Edited on: October / 06 / 20222
+Last Edited on: January / 11 / 2023
